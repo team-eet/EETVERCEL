@@ -1,1 +1,1 @@
-# EETVERCEL
+# histudy-nextjs
